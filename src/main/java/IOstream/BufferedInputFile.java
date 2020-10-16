@@ -13,8 +13,8 @@ import java.io.IOException;
  * 创建时间:  2020/10/14 22:27
  */
 public class BufferedInputFile {
-    public static  String
-    read(String filename) throws IOException{
+
+    public static  String  read(String filename) throws IOException{
         //Throw exception by lines;
         //使用以String或File对象作为文件名的FileInputReader.，并使用缓冲提高速度。
         BufferedReader in = new BufferedReader(new FileReader(filename));
@@ -30,6 +30,7 @@ public class BufferedInputFile {
 class test{
     public static void main(String[] args) throws IOException{
         String root = System.getProperty("user.dir");
+//        Integer.bitCount();
         //获取当前类的绝对路径
         String path = BufferedInputFile.class.getClassLoader().getResource("").getPath();
         System.out.println(path);
