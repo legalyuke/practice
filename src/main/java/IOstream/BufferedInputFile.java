@@ -17,6 +17,7 @@ public class BufferedInputFile {
     public static  String  read(String filename) throws IOException{
         //Throw exception by lines;
         //使用以String或File对象作为文件名的FileInputReader.，并使用缓冲提高速度。
+        System.out.println(new FileReader(filename));
         BufferedReader in = new BufferedReader(new FileReader(filename));
         String s;
         StringBuilder sb = new StringBuilder();
@@ -37,6 +38,14 @@ class test{
         String FileName="test.txt";
 //        String filePath = root+File.separator+"experiment"+File.separator+FileName;
         String filePath = path+FileName;
-        System.out.println(BufferedInputFile.read(filePath));
+        String s = InputStreamFile.read(filePath,"UTF-8");
+//        String s = BufferedInputFile.read(filePath);
+        String s1 = new String(s.getBytes("UTF-8"),"GBK");
+//        String s2 = new String(s.getBytes("GBK"),"GBK");
+        String s3 = "字符编码测试";
+        System.out.println(s);
+        System.out.println(s1);
+//        System.out.println(s2);
+        System.out.println(s3);
     }
 }
