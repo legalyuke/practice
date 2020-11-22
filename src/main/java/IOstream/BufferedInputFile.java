@@ -38,9 +38,9 @@ class test{
         String FileName="test.txt";
 //        String filePath = root+File.separator+"experiment"+File.separator+FileName;
         String filePath = path+FileName;
-        String s = InputStreamFile.read(filePath,"UTF-8");
+        String s = InputStreamFile.read(filePath,"GBK");
 //        String s = BufferedInputFile.read(filePath);
-        String s1 = new String(s.getBytes("UTF-8"),"GBK");
+        String s1 = new String(s.getBytes("GBK"),"UTF-8");
 //        String s2 = new String(s.getBytes("GBK"),"GBK");
         String s3 = "字符编码测试";
         System.out.println(s);

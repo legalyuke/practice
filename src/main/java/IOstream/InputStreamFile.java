@@ -52,6 +52,7 @@ public class InputStreamFile {
             // 但如果这两个字符分开显示时，会换两次行。
             // 因此，屏蔽掉\r，或者屏蔽\n。否则，将会多出很多空行。
             if (((char) tempChar) != '\r') {
+                System.out.println(tempChar);
                 stringBuilder.append((char)tempChar);
             }
         }
