@@ -59,10 +59,12 @@ public class Quick {
             if(i >= j){
                 break;
             }
+            //找到一对可以交换的逆序元素，进行交换
             int temp = a[i];
             a[i] = a[j];
             a[j] = temp;
         }
+        //排序完成后，将切分点与lo交换
         int temp = a[lo];
         a[lo] = a[j];
         a[j] = temp;
