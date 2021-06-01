@@ -1,0 +1,13 @@
+
+H
+java:S1128	"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+E
+java:S1128
+"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+d
+java:S1128"NRemove this unused import 'com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput'.(ÓÒÒÃ
+]	java:S125%"<This block of commented-out lines of code should be removed.(Ø÷ôıúÿÿÿÿ8öÔÈÆ/
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şıûÛ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÓÒÒÃ

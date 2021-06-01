@@ -1,0 +1,16 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¯ğŞşÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "temp".(ŠŸ¾ÿÿÿÿÿ
+D
+java:S1481")Remove this unused "temp" local variable.(ŠŸ¾ÿÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(ÖƒÌˆ
+J
+java:S3740;"/Provide the parametrized type for this generic.(Öàšüÿÿÿÿ
+R
+java:S1854%"7Remove this useless assignment to local variable "key".(´Ë“Êùÿÿÿÿ
+J
+java:S3740#"/Provide the parametrized type for this generic.(Öàšüÿÿÿÿ
+C
+java:S1481 "(Remove this unused "key" local variable.(ú´Ïïıÿÿÿÿ

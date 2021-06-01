@@ -61,7 +61,7 @@ public class Bubble {
         long initTime = System.currentTimeMillis();
         optimizeSort(a);
         Arrays.stream(a).forEach(System.out::println);
-        System.out.println("------------------执行排序数组大小："+ a.length);
-        System.out.println("------------------执行耗时："+ (System.currentTimeMillis()-initTime)+"ms");
+        System.out.println("------------------执行排序数组大小：" + a.length);
+        System.out.println("------------------执行耗时：" + (System.currentTimeMillis() - initTime) + "ms");
     }
 }

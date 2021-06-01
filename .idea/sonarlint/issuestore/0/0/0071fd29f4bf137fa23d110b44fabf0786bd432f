@@ -1,0 +1,25 @@
+
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔĞÁ
+Q	java:S125"<This block of commented-out lines of code should be removed.(—‹ù¸
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ÍÎÉ 
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ëë¢Ø
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î˜á˜
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø«´¡
+N
+java:S1854!"8Remove this useless assignment to local variable "root".(ËòÂ¾
+Q	java:S125""<This block of commented-out lines of code should be removed.(Ó¯ù
+V	java:S1250"<This block of commented-out lines of code should be removed.(ˆ¿Óåıÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(×ãÂâ
+V	java:S125*"<This block of commented-out lines of code should be removed.(Òäïüÿÿÿÿ
+?
+java:S1481!")Remove this unused "root" local variable.(ËòÂ¾
+V	java:S125'"<This block of commented-out lines of code should be removed.(ÑİÆ–üÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(’¥©×
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Á›•œ
+T
+java:S4719+"9Replace charset name argument with StandardCharsets.UTF_8(óï„°üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŠñÚ

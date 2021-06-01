@@ -1,0 +1,31 @@
+
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(”öà³
+Q	java:S125:"<This block of commented-out lines of code should be removed.(±¯€¤
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(õÙ°ñ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(íù©
+M	java:S1063"9Replace this use of System.out or System.err by a logger.(¥ÖC
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Ðº³®þÿÿÿÿ
+Q	java:S125>"<This block of commented-out lines of code should be removed.(±¯€¤
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(æ²‡þÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ùùÒÔùÿÿÿÿ
+T
+java:S1854@"9Remove this useless assignment to local variable "shard".(ÜÛ—Šýÿÿÿÿ
+a	java:S128;"LEnd this switch case with an unconditional break, return or throw statement.(÷ó¦‘
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ÒóÙ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(¾ÍêÇþÿÿÿÿ
+P
+java:S2209@"5Change this instance-reference to a static reference.(ÜÛ—Šýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÐÁ
+V	java:S125&"<This block of commented-out lines of code should be removed.(Áó÷òÿÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ì–Ãîûÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(÷óÞ‚
+‚
+java:S1130%"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(Ë‹½»
+p
+java:S1128"URemove this unused import 'com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer'.(ùùÒÔùÿÿÿÿ
+Q	java:S125B"<This block of commented-out lines of code should be removed.(±¯€¤
+O
+java:S18548"9Remove this useless assignment to local variable "shard".(ÊÀšø
+a	java:S1287"LEnd this switch case with an unconditional break, return or throw statement.(ò÷¬ò

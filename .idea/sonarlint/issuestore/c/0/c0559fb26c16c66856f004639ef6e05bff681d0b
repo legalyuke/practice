@@ -1,0 +1,11 @@
+
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(Û’Îœüÿÿÿÿ
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(áøÖêúÿÿÿÿ8„óá€’/
+V	java:S125-"<This block of commented-out lines of code should be removed.(´ù¦ÿÿÿÿÿ
+Q	java:S125G"<This block of commented-out lines of code should be removed.(Ó·ƒ
+1
+java:S3626="Remove this redundant jump.(ÉŠ©ƒ
+N
+java:S1172:"3Remove this unused method parameter "allowedSwaps".(¿ø¹üÿÿÿÿ
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(²Îº‹8„óá€’/
+Q	java:S125j"<This block of commented-out lines of code should be removed.(œí­£

@@ -1,0 +1,39 @@
+
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(É„†ú
+L
+java:S1854Y"6Remove this useless assignment to local variable "re".(äØ´Ê
+m
+java:S2177e"WRename this method; there is a "private" method in the parent class with the same name.(¢Áİ
+G
+java:S3599:",Use another way to initialize this instance.(íõ½Ñùÿÿÿÿ
+t
+java:S1171;"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(ó‹½”úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ş»¢¬ûÿÿÿÿ
+<
+java:S1144"&Remove this unused private "f" method.(ä¸œ¡
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(Æ©ƒ»üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ĞÔªşÿÿÿÿ
+F
+java:S2201A"0The return value of "getOrDefault" must be used.(ı™şº
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(Ë¥Ó
+=
+java:S1481Y"'Remove this unused "re" local variable.(äØ´Ê
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ı·‡‘øÿÿÿÿ
+Q	java:S125L"<This block of commented-out lines of code should be removed.(Ÿïš†
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ÉË²ûÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(«¨Éİ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(¼“ôç
+B
+java:S3011Q",This accessibility update should be removed.(˜ÂÓ˜
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ùùÒÔùÿÿÿÿ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(£Ğ‰ı
+B
+java:S3011P",This accessibility update should be removed.(Ó«§¯
+Q	java:S125^"<This block of commented-out lines of code should be removed.(Ÿ—ıê
+p
+java:S1128"URemove this unused import 'com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer'.(ùùÒÔùÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ö‚ºéıÿÿÿÿ

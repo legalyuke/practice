@@ -79,12 +79,13 @@ public class Test01 {
             }
         }
         Map<Integer, Integer> map = new HashMap<>();
-        map.merge(1,1,new BiFunctionImpl());
-        map.merge(1,1,new BiFunctionImpl());
-        map.merge(2,2,new BiFunctionImpl());
-        map.merge(2,2,new BiFunctionImpl());
-        map.merge(2,2,new BiFunctionImpl());
-        map.merge(3,2,new BiFunctionImpl());
+        map.merge(1,1, Integer::sum);
+        map.merge(1,1, Integer::sum);
+        map.merge(2,2, Integer::sum);
+        map.merge(2,2, Integer::sum);
+        map.merge(2,2, Integer::sum);
+        map.merge(3,2, Integer::sum);
+        map.merge(3,2, Integer::sum);
         System.out.println(map);
                 
 

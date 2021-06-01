@@ -10,13 +10,14 @@ package test;
 public  abstract class TestAbstract {
      abstract void testMethod();
      protected final static class testStaticClass{
-           static void printx(){
+           static void printValue(){
                System.out.println("test");
           }
      }
      void test(){
-          testStaticClass.printx();
+          testStaticClass.printValue();
      }
+     public static native int w();
 
 }
  class TestClass extends TestAbstract{
@@ -26,15 +27,20 @@ public  abstract class TestAbstract {
                 break;
            }while (true);
 
-           testStaticClass.printx();
+           testStaticClass.printValue();
       }
+
+     public  static int w(){
+         return  2;
+     };
  }
  class TestStaticInnerClass{
      TestClass testClass = new TestClass();
      void test(){
           testClass.testMethod();
-          TestClass.testStaticClass.printx();
-          TestAbstract.testStaticClass.printx();
+          TestClass.w();
+          TestClass.testStaticClass.printValue();
+          TestAbstract.testStaticClass.printValue();
      }
 
  }
