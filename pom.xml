@@ -3,7 +3,6 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
     <groupId>legalyuke</groupId>
     <artifactId>practice</artifactId>
     <packaging>pom</packaging>
@@ -11,6 +10,22 @@
     <modules>
         <module>algorithm</module>
     </modules>
+    <properties>
+        <netty-all-version>4.1.6.Final</netty-all-version>
+        <lombok-version>1.16.22</lombok-version>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>${lombok-version}</version>
+        </dependency>
 
-
+        <!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>${netty-all-version}</version>
+        </dependency>
+    </dependencies>
 </project>
