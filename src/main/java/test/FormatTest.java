@@ -1,5 +1,7 @@
 package test;
 
+import lombok.var;
+
 import java.util.*;
 
 /**
@@ -132,6 +134,21 @@ public class FormatTest {
             System.out.println("相等");
         } else {
             System.out.println("不等");
+        }
+        synchronized ()
+//        int i = Integer.parseInt("123a");
+//        System.out.println(i);
+//        int[]a =null;
+        String[] s = {
+          "olddfdf","xdfd","old123456","23213old454"
+        };
+        Deque deque = new ArrayDeque<>();
+        List<Integer> list = new LinkedList();
+        for(String test: s){
+            System.out.println(test);
+            if(test.matches("old")){
+                System.out.println(test);
+            }
         }
     }
 }

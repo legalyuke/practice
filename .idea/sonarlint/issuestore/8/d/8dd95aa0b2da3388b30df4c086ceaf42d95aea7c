@@ -1,0 +1,52 @@
+
+Q	java:S125p"<This block of commented-out lines of code should be removed.(¯’Ú¤
+=
+java:S1481D"'Remove this unused "l1" local variable.(š»¦ì
+@
+java:S1481o"*Remove this unused "inner" local variable.(ËéÌÄ
+u
+java:S1149'"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¶´¿
+V	java:S125"<This block of commented-out lines of code should be removed.(ŠìŞşÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(¨ÀûÏøÿÿÿÿ
+Q	java:S1255"<This block of commented-out lines of code should be removed.(òáàŒ
+s
+java:S4276J"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(ãˆìº
+O
+java:S1854o"9Remove this useless assignment to local variable "inner".(ËéÌÄ
+T
+java:S1854<"9Remove this useless assignment to local variable "inner".(Ó¬Øøÿÿÿÿ
+:
+java:S1659"Declare "y" on a separate line.(ØĞõõùÿÿÿÿ
+V	java:S1252"<This block of commented-out lines of code should be removed.(êô§øÿÿÿÿ
+B
+java:S1481-"'Remove this unused "z1" local variable.( ×Ûùÿÿÿÿ
+t
+java:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ŠÛœ3
+E
+java:S1481<"*Remove this unused "inner" local variable.(Ó¬Øøÿÿÿÿ
+P	java:S125E"<This block of commented-out lines of code should be removed.(§Â p
+L
+java:S1854D"6Remove this useless assignment to local variable "l1".(š»¦ì
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+u
+java:S1149&"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ôøÆ
+Q	java:S1258"<This block of commented-out lines of code should be removed.(‹Ò»€
+Q
+java:S1854-"6Remove this useless assignment to local variable "z1".( ×Ûùÿÿÿÿ
+L
+java:S1854C"6Remove this useless assignment to local variable "f1".(ûˆ˜­
+Q	java:S125+"<This block of commented-out lines of code should be removed.(Îêš
+=
+java:S1481C"'Remove this unused "f1" local variable.(ûˆ˜­
+Q	java:S125("<This block of commented-out lines of code should be removed.(¢¨Ç
+:
+java:S14817"&Remove this unused "y" local variable.(¥¤
+t
+java:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ŠÛœ3
+J
+java:S3740"/Provide the parametrized type for this generic.(ƒíŸæÿÿÿÿÿ
+K
+java:S1854""5Remove this useless assignment to local variable "b".(á»ÑÅ
+I
+java:S18547"5Remove this useless assignment to local variable "y".(¥¤
+V	java:S125f"<This block of commented-out lines of code should be removed.(Œ±¦—ùÿÿÿÿ

@@ -26,9 +26,13 @@ public class Tclass<T> {
         Tclass<String> tclass = new Tclass<>("sdf");
         System.out.println(tclass.get());
         String s = new String("dfsdf");
+        s.split("\\.");
         char temp = s.charAt(0);
         SortedMap<Integer, Integer> map = new TreeMap<>();
         map.merge(1, 1, Integer::sum);
+        for(Map.Entry entrySet: map.entrySet()){
+
+        }
         String key;
         map.firstKey();
         Set<Map.Entry<Integer, Integer>> set = map.entrySet();
@@ -38,6 +42,9 @@ public class Tclass<T> {
                 break;
             }
         }
+        HashSet<String> hashSet = new HashSet<>();
+
+
 
 
     }

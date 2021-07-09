@@ -1,0 +1,16 @@
+
+O
+java:S3400""9Remove this method and declare a constant for this value.(Úåö
+P
+java:S1118":Add a private constructor to hide the implicit public one.(‡Íéş
+Q
+java:S1610
+"<Convert the abstract class "TestAbstract" into an interface.(‚ÛÁj
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëôßÊ
+7
+java:S1116#"Remove this empty statement.(ôŸìúÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‡Íéş
+V
+java:S3252*"AUse static access with "test.TestAbstract" for "testStaticClass".(ùâV
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‡Íéş

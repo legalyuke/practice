@@ -1,0 +1,9 @@
+
+e
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(”ΏΘ•ύÿÿÿÿ
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(κΩ
+D
+java:S1128"0Remove this unused import 'java.io.InputStream'.(Ή»Ί
+P
+java:S1854"<Remove this useless assignment to local variable "sendData".(έλ‹Τ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¬ΆΫ

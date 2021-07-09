@@ -1,0 +1,10 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÓÒÒÃ
+d
+java:S1128"NRemove this unused import 'com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput'.(ÓÒÒÃ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å³€
+T
+java:S4719">Replace charset name argument with StandardCharsets.ISO_8859_1(Å³€
+O
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Å³€
